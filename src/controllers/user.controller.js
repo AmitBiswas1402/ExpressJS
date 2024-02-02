@@ -209,5 +209,4 @@ export {
     loginUser,
     logoutUser,
     refreshAccessToken,
-    options,
 }
